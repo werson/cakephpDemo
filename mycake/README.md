@@ -1,5 +1,6 @@
 CakePHP
 =======
+以CakePhp框架实现的一个软件项目开发管理系统，仿照towe实现。
 
 [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
 
