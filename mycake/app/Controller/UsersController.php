@@ -132,7 +132,7 @@ start;
         $mail->Host = "smtp.126.com";  //设置126邮箱服务
         $mail->SMTPAuth = true;     // 设置需要验证
         $mail->Username = "mytime_cake@126.com";  // 发件人使用邮箱
-        $mail->Password = "gj931120"; // 设置发件人密码
+        $mail->Password = "******"; // 设置发件人密码
 
         $mail->From = "mytime_cake@126.com";// 发件人邮箱
         $mail->FromName = "Mytime"; //发送者名称
